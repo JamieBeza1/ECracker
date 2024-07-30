@@ -4,7 +4,7 @@ import itertools
 import threading
 import hashlib
 
-host = '192.168.1.145'
+host = '127.0.0.1'
 port = 4444
 length = None
 max_length = 14
