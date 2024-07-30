@@ -6,7 +6,7 @@ import time
 import hashlib
 
 # Server Variables
-host = '192.168.1.145'  # Change this to your actual server IP
+host = '127.0.0.1'  # Change this to your actual server IP
 port = 4444
 
 # Global variables
